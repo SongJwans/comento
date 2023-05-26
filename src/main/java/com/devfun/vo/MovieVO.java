@@ -1,18 +1,10 @@
 package com.devfun.vo;
 
 public class MovieVO {
-
+	
 	String movie_name;
 	String director;
 	String types;
-	
-
-	public MovieVO(String movie_name, String director, String types) {
-		super();
-		this.movie_name = movie_name;
-		this.director = director;
-		this.types = types;
-	}
 	
 	public String getMovie_name() {
 		return movie_name;
