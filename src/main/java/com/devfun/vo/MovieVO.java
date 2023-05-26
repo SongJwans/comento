@@ -24,5 +24,4 @@ public class MovieVO {
 	public void setTypes(String types) {
 		this.types = types;
 	}
-
 }
