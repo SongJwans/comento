@@ -14,6 +14,8 @@ REST(Representational State Transfer)란 HTTP URI(Uniform Resource Identifier)�
 REST기반으로 서비스 API를 구현한 것이다.
 그 특징들로는 REST의 특징들과 유사하다.
 
+서버개발자 취업 전략 API 가이드.pdf
+
 ## HTTP(Hyper Text Transfer Protocol)란?
 - RFC 2616에서 규정된 Web에서 데이터를 주고 받는 프로토콜
 - 이름에는 하이퍼텍스트 전송용 프로토콜로 정의되어 있지만, 실제로는 HTML, XML, JSON, Image, Voice, Javascript, PDF 등 다양한 컴퓨터에서 다룰 수 있는 것은 모두 전송할 수 있습니다.
